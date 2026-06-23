@@ -28,7 +28,7 @@ scrap -> processed scrap + Fulgoran fragments (like 0.2%)
 
 Fulgoran fragments + holmium plates -> Fulgoran science
 
-processed scrap gives 25% more resources when in recycler. (25% (recycler output) * 25% = 6.25% from 1 stone to recycler output (or 1/16))
+processed scrap gives 25% more resources when in recycler. (25% (recycler output) * 125% = 31.25% from 1 stone to recycler output (or 5/16) compared to 25% (4/16)
 
 ---
 
