@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "title": "",
+  "author": "Kevin Kiss",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 1.1.0"],
+  "description": ""
+}
